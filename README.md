@@ -14,4 +14,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0075-sort-colors) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
