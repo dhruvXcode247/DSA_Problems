@@ -6,6 +6,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0169-majority-element) |
@@ -56,4 +57,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0053-maximum-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
