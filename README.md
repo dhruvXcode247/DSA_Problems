@@ -11,6 +11,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0075-sort-colors) |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0189-rotate-array) |
 ## Recursion
@@ -82,5 +84,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
