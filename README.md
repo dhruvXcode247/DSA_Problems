@@ -89,4 +89,8 @@
 | [0048-rotate-image](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0073-set-matrix-zeroes) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
