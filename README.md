@@ -20,6 +20,7 @@
 | [0118-pascals-triangle](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0229-majority-element-ii) |
@@ -84,6 +85,7 @@
 | [0035-search-insert-position](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0162-find-peak-element) |
 ## Simulation
 |  |
 | ------- |
