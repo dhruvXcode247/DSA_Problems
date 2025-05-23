@@ -51,6 +51,7 @@
 | [0048-rotate-image](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0189-rotate-array) |
+| [2383-add-two-integers](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2383-add-two-integers) |
 ## Recursion
 |  |
 | ------- |
