@@ -26,6 +26,7 @@
 | [0229-majority-element-ii](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0560-subarray-sum-equals-k) |
+| [1677-matrix-diagonal-sum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1677-matrix-diagonal-sum) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -100,6 +101,7 @@
 | [0048-rotate-image](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0073-set-matrix-zeroes) |
+| [1677-matrix-diagonal-sum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1677-matrix-diagonal-sum) |
 ## Linked List
 |  |
 | ------- |
