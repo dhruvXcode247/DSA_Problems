@@ -20,7 +20,7 @@ public:
             prev=temp;
             temp=front;
         }
-        temp=head;
+        temp=prev;
         while (temp!=nullptr) {
             cout << temp->val;
             temp=temp->next;
