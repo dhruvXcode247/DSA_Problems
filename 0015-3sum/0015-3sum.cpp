@@ -17,8 +17,7 @@ public:
                     k--;
                 }
                 else {
-                    vector<int>temp={nums[i],nums[j],nums[k]};
-                    ans.emplace_back(temp);
+                    ans.push_back({nums[i],nums[j],nums[k]});
                     j++;
                     k--;
                     while (j<k && nums[j]==nums[j-1]) j++;
