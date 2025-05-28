@@ -40,6 +40,7 @@
 | [0031-next-permutation](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0908-middle-of-the-linked-list) |
@@ -71,6 +72,7 @@
 | [0001-two-sum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -116,6 +118,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0908-middle-of-the-linked-list) |
