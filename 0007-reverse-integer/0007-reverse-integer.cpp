@@ -1,7 +1,7 @@
 class Solution {
 public:
     int reverse(int x) {
-        int i,rev=0,r,num=x,res;
+        int rev=0,r,num=x;
         while (num!=0) {
             r=num%10;
             num=num/10;
