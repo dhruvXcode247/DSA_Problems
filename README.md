@@ -61,6 +61,7 @@
 | [0007-reverse-integer](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0189-rotate-array) |
 | [2383-add-two-integers](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2383-add-two-integers) |
 ## Recursion
@@ -94,6 +95,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Binary Search
@@ -156,4 +158,8 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0234-palindrome-linked-list) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
