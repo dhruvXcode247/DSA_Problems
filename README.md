@@ -24,6 +24,7 @@
 | [0162-find-peak-element](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0198-house-robber) |
 | [0229-majority-element-ii](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -98,6 +99,7 @@
 | [0070-climbing-stairs](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0198-house-robber) |
 ## Binary Search
 |  |
 | ------- |
