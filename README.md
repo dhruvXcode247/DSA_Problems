@@ -178,6 +178,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0234-palindrome-linked-list) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Memoization
@@ -201,4 +202,8 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0020-valid-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
