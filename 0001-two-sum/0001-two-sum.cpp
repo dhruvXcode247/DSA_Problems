@@ -7,7 +7,7 @@ public:
         num=nums[i];
         req=target-num;
         if (mpp.find(req)!=mpp.end()) {
-            return {i,mpp[req]};
+            return {mpp[req],i};
         }
         mpp[num]=i;
     }
