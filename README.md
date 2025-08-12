@@ -38,6 +38,7 @@
 | [1677-matrix-diagonal-sum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1677-matrix-diagonal-sum) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2876-number-of-employees-who-met-the-target) |
 ## Two Pointers
 |  |
 | ------- |
