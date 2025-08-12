@@ -50,6 +50,7 @@
 | [0075-sort-colors](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0283-move-zeroes) |
@@ -201,6 +202,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0020-valid-parentheses) |
+| [0151-reverse-words-in-a-string](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Design
 |  |
