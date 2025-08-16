@@ -79,6 +79,7 @@
 | [0050-powx-n](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0189-rotate-array) |
+| [1448-maximum-69-number](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1448-maximum-69-number) |
 | [2383-add-two-integers](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2383-add-two-integers) |
 ## Recursion
 |  |
@@ -210,4 +211,8 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0155-min-stack) |
+## Greedy
+|  |
+| ------- |
+| [1448-maximum-69-number](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1448-maximum-69-number) |
 <!---LeetCode Topics End-->
