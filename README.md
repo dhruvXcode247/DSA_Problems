@@ -34,6 +34,7 @@
 | [0322-coin-change](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0416-partition-equal-subset-sum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0416-partition-equal-subset-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0948-sort-an-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0948-sort-an-array) |
 | [1677-matrix-diagonal-sum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1677-matrix-diagonal-sum) |
@@ -148,6 +149,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0540-single-element-in-a-sorted-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0633-sum-of-square-numbers) |
 ## Simulation
 |  |
