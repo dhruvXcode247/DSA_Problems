@@ -248,6 +248,7 @@
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2032-largest-odd-number-in-string) |
 | [3379-score-of-a-string](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3379-score-of-a-string) |
+| [3636-check-balanced-string](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3636-check-balanced-string) |
 ## Design
 |  |
 | ------- |
