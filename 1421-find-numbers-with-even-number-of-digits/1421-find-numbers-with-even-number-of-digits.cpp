@@ -1,11 +1,12 @@
 class Solution {
 public:
     int findNumbers(vector<int>& nums) {
-        int count,realCount=0;
+        int count,realCount=0,ele;
         for (int i=0;i<nums.size();i++) {
             count=0;
-            while(nums[i]>0) {
-                nums[i]/=10;
+            ele=nums[i];
+            while(ele>0) {
+                ele/=10;
                 count++;
             }
             if (count%2==0) realCount++;
