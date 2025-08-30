@@ -1,7 +1,6 @@
 class Solution {
 public:
     vector<int> nextGreaterElements(vector<int>& nums) {
-        unordered_map<int,int>mpp;
         stack<int>st;
         vector<int>ans(nums.size(),-1);
         for (int i=2*nums.size()-1;i>=0;i--) {
@@ -15,4 +14,4 @@ public:
         }
         return ans;
     }
-};
+}; 
