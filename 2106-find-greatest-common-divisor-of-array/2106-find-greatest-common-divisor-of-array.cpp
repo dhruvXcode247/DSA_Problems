@@ -11,6 +11,6 @@ public:
             maxi=max(maxi,nums[i]);
             mini=min(mini,nums[i]);
         }
-        return gcd(mini,maxi);
+        return gcd(maxi,mini);
     }
 };
