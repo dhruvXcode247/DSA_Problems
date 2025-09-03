@@ -32,6 +32,7 @@
 | [0169-majority-element](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0198-house-robber) |
+| [0217-contains-duplicate](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0322-coin-change) |
@@ -100,6 +101,7 @@
 | [0088-merge-sorted-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0948-sort-an-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0948-sort-an-array) |
@@ -141,6 +143,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0496-next-greater-element-i) |
