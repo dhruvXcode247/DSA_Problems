@@ -109,6 +109,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0050-powx-n) |
@@ -132,6 +133,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0206-reverse-linked-list) |
@@ -215,6 +217,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0142-linked-list-cycle-ii) |
