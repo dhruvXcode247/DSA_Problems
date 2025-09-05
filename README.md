@@ -121,6 +121,7 @@
 | [0507-perfect-number](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0633-sum-of-square-numbers) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -277,6 +278,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0078-subsets) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Breadth-First Search
 |  |
 | ------- |
