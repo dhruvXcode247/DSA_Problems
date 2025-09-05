@@ -62,6 +62,7 @@
 | [2876-number-of-employees-who-met-the-target](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3194-find-words-containing-character) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
+| [3582-find-indices-of-stable-mountains](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3582-find-indices-of-stable-mountains) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3778-transform-array-by-parity](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3778-transform-array-by-parity) |
 ## Two Pointers
