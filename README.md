@@ -127,6 +127,7 @@
 | [0066-plus-one](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0231-power-of-two) |
 | [0319-bulb-switcher](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0507-perfect-number) |
@@ -151,6 +152,7 @@
 | [0050-powx-n](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
 |  |
@@ -299,6 +301,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0078-subsets) |
+| [0231-power-of-two](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0389-find-the-difference) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Breadth-First Search
