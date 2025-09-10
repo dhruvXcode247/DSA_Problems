@@ -26,6 +26,7 @@
 | [0088-merge-sorted-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -301,6 +302,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0389-find-the-difference) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
