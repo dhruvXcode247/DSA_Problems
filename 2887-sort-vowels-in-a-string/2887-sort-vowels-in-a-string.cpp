@@ -1,19 +1,20 @@
 class Solution {
 public:
     string sortVowels(string s) {
-        multiset<char>st;
+        vector<int>ans;
         for (int i=0;i<s.size();i++) {
             if (tolower(s[i])=='a' || tolower(s[i])=='e' ||tolower(s[i])=='i' ||
             tolower(s[i])=='o' ||tolower(s[i])=='u') {
-                st.insert(s[i]);
+                ans.emplace_back(s[i]);
             }
         }
-        auto it=st.begin();
+        sort(ans.begin(),ans.end());
+        int j=0;
         for (int i=0;i<s.size();i++) {
             if (tolower(s[i])=='a' || tolower(s[i])=='e' ||tolower(s[i])=='i' ||
             tolower(s[i])=='o' ||tolower(s[i])=='u') {
-                s[i]=*it;
-                it++;
+                s[i]=ans[j];
+                j++;
             }
         }
         return s;
