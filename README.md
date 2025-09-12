@@ -145,6 +145,7 @@
 | [2432-number-of-zero-filled-subarrays](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3462-vowels-game-in-a-string](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3462-vowels-game-in-a-string) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3830-find-closest-person](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3830-find-closest-person) |
 ## Recursion
@@ -330,6 +331,7 @@
 | [2887-sort-vowels-in-a-string](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2887-sort-vowels-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3379-score-of-a-string) |
+| [3462-vowels-game-in-a-string](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3462-vowels-game-in-a-string) |
 | [3636-check-balanced-string](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3636-check-balanced-string) |
 ## Design
 |  |
@@ -359,4 +361,9 @@
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0319-bulb-switcher) |
+| [3462-vowels-game-in-a-string](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
