@@ -149,6 +149,7 @@
 | [3462-vowels-game-in-a-string](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3462-vowels-game-in-a-string) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3830-find-closest-person](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3830-find-closest-person) |
+| [3918-check-divisibility-by-digit-sum-and-product](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Recursion
 |  |
 | ------- |
