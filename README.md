@@ -60,6 +60,7 @@
 | [2058-concatenation-of-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2227-sum-of-subarray-ranges](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2331-intersection-of-multiple-arrays](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2331-intersection-of-multiple-arrays) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -301,6 +302,7 @@
 | [0503-next-greater-element-ii](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0735-asteroid-collision) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2227-sum-of-subarray-ranges](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2227-sum-of-subarray-ranges) |
 ## Memoization
 |  |
 | ------- |
@@ -363,6 +365,7 @@
 | [0042-trapping-rain-water](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0503-next-greater-element-ii) |
+| [2227-sum-of-subarray-ranges](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2227-sum-of-subarray-ranges) |
 ## Number Theory
 |  |
 | ------- |
