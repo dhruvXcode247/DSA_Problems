@@ -176,6 +176,7 @@
 | [0389-find-the-difference](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0782-jewels-and-stones](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0782-jewels-and-stones) |
 | [1319-unique-number-of-occurrences](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1319-unique-number-of-occurrences) |
 | [1848-sum-of-unique-elements](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1848-sum-of-unique-elements) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -333,6 +334,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0389-find-the-difference](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0389-find-the-difference) |
 | [0443-string-compression](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0443-string-compression) |
+| [0782-jewels-and-stones](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0812-rotate-string) |
 | [1205-defanging-an-ip-address](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1205-defanging-an-ip-address) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
