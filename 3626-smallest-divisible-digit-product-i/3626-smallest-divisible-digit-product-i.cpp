@@ -1,7 +1,7 @@
 class Solution {
 public:
     int smallestNumber(int n, int t) {
-        int num=n,pro=1,ans=INT_MAX;
+        int num=n,pro;
         while (true) {
             pro=1;
             int number=num;
