@@ -187,6 +187,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0782-jewels-and-stones](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0782-jewels-and-stones) |
 | [0966-binary-subarrays-with-sum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0966-binary-subarrays-with-sum) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1319-unique-number-of-occurrences](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1319-unique-number-of-occurrences) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1848-sum-of-unique-elements) |
@@ -353,6 +354,7 @@
 | [0782-jewels-and-stones](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0812-rotate-string) |
 | [1205-defanging-an-ip-address](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1205-defanging-an-ip-address) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2032-largest-odd-number-in-string) |
