@@ -1,17 +1,20 @@
 class Solution {
 public:
-    vector<vector<int>> subsets(vector<int>& nums) {
-        int n=nums.size();
-        vector<vector<int>>finalAns;
-        for (int i=0;i<(1<<n);i++) {
-            vector<int>ans={};
-            for (int j=0;j<n;j++) {
-                if (i&(1<<j)) {
-                    ans.emplace_back(nums[j]);
-                }
-            }
-            finalAns.emplace_back(ans);
+    void subsequences(vector<int>&nums,vector<vector<int>>
+    &ans,vector<int>temp,int start,int n) {
+        if (start==n) {
+            ans.push_back(temp);
+            return;
         }
-        return finalAns;
+        subsequences(nums,ans,temp,start+1,n);
+        temp.emplace_back(nums[start]);
+        subsequences(nums,ans,temp,start+1,n);
+    }
+    vector<vector<int>> subsets(vector<int>& nums) {
+        int n=nums.size(),start=0;
+        vector<int>temp;
+        vector<vector<int>>ans;
+        subsequences(nums,ans,temp,start,n);
+        return ans;
     }
 };
