@@ -74,6 +74,7 @@
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3194-find-words-containing-character](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3194-find-words-containing-character) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3582-find-indices-of-stable-mountains) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -156,6 +157,7 @@
 | [2608-count-the-digits-that-divide-a-number](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3462-vowels-game-in-a-string](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3462-vowels-game-in-a-string) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3817-maximum-containers-on-a-ship](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3817-maximum-containers-on-a-ship) |
@@ -198,6 +200,7 @@
 | [1960-check-if-the-sentence-is-pangram](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2331-intersection-of-multiple-arrays](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2331-intersection-of-multiple-arrays) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Divide and Conquer
 |  |
