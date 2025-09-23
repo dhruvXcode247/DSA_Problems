@@ -101,6 +101,7 @@
 | [0148-sort-list](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0165-compare-version-numbers](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0234-palindrome-linked-list) |
@@ -359,6 +360,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0151-reverse-words-in-a-string) |
+| [0165-compare-version-numbers](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0165-compare-version-numbers) |
 | [0389-find-the-difference](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0424-longest-repeating-character-replacement) |
