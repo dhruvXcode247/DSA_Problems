@@ -8,7 +8,6 @@ public:
             }
             else {
                 if (nums[i]%3!=0) {
-                    nums[i]+=1;
                     count++;
                 }
             }
