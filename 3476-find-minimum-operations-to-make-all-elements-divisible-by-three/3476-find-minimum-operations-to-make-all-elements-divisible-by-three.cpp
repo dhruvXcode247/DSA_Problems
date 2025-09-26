@@ -4,11 +4,10 @@ public:
         int count=0;
         for (int i=0;i<nums.size();i++) {
             if (nums[i]%3==1) {
-                nums[i]-=1;
                 count++;
             }
             else {
-                while (nums[i]%3!=0) {
+                if (nums[i]%3!=0) {
                     nums[i]+=1;
                     count++;
                 }
