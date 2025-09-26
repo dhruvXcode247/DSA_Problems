@@ -77,6 +77,7 @@
 | [3194-find-words-containing-character](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3194-find-words-containing-character) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3528-reach-end-of-array-with-max-score) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3582-find-indices-of-stable-mountains) |
@@ -163,6 +164,7 @@
 | [2608-count-the-digits-that-divide-a-number](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3462-vowels-game-in-a-string](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3462-vowels-game-in-a-string) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
