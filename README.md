@@ -169,6 +169,7 @@
 | [2608-count-the-digits-that-divide-a-number](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3422-find-the-n-th-value-after-k-seconds) |
+| [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3462-vowels-game-in-a-string](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3462-vowels-game-in-a-string) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
@@ -284,6 +285,7 @@
 | [2639-separate-the-digits-in-an-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2639-separate-the-digits-in-an-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3422-find-the-n-th-value-after-k-seconds) |
+| [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 ## Matrix
 |  |
 | ------- |
