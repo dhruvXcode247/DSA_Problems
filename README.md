@@ -79,6 +79,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3422-find-the-n-th-value-after-k-seconds) |
+| [3446-find-the-number-of-good-pairs-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3528-reach-end-of-array-with-max-score) |
@@ -218,6 +219,7 @@
 | [2331-intersection-of-multiple-arrays](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2331-intersection-of-multiple-arrays) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3446-find-the-number-of-good-pairs-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Divide and Conquer
