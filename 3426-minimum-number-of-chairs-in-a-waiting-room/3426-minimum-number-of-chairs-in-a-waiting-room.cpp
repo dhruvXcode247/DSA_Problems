@@ -1,12 +1,12 @@
 class Solution {
 public:
     int minimumChairs(string s) {
-        int count=0,mini=INT_MIN;
+        int count=0,maxChairs=0;
         for (int i=0;i<s.size();i++) {
             if (s[i]=='E') count++;
             else count--;
-            mini=max(count,mini);
+            maxChairs=max(count,maxChairs);
         }
-        return mini;
+        return maxChairs;
     }
 };
