@@ -167,6 +167,7 @@
 | [1448-maximum-69-number](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2383-add-two-integers](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2383-add-two-integers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -289,6 +290,7 @@
 | [2058-concatenation-of-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2639-separate-the-digits-in-an-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2639-separate-the-digits-in-an-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3422-find-the-n-th-value-after-k-seconds) |
