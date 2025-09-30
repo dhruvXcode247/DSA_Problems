@@ -205,6 +205,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0160-intersection-of-two-linked-lists) |
@@ -397,6 +398,7 @@
 | [0022-generate-parentheses](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0058-length-of-last-word) |
+| [0076-minimum-window-substring](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0165-compare-version-numbers) |
 | [0389-find-the-difference](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0389-find-the-difference) |
@@ -461,6 +463,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1034-subarrays-with-k-different-integers) |
