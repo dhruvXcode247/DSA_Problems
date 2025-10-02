@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void permutations(vector<int>&nums,vector<vector<int>>&ans,vector<int>temp,vector<bool>&visited) {
+    void permutations(vector<int>&nums,vector<vector<int>>&ans,vector<int>&temp,vector<bool>&visited) {
         if (visited.size()==temp.size()) {
             ans.emplace_back(temp);
             return;
