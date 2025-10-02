@@ -16,6 +16,7 @@
 | [0035-search-insert-position](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0054-spiral-matrix) |
@@ -388,6 +389,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
