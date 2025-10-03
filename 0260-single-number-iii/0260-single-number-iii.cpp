@@ -1,14 +1,20 @@
 class Solution {
 public:
     vector<int> singleNumber(vector<int>& nums) {
-        vector<int>ans;
-        unordered_map<int,int>mpp;
+        long long xorr=0;
         for (int i=0;i<nums.size();i++) {
-            mpp[nums[i]]++;
+            xorr^=nums[i];
         }
-        for (auto it:mpp) {
-            if (it.second==1) ans.emplace_back(it.first);
+        long long rightmost=(xorr&xorr-1)^xorr;
+        int bucket1=0,bucket2=0;
+        for (int i=0;i<nums.size();i++) {
+            if (rightmost&nums[i]) {
+                bucket1^=nums[i];
+            }
+            else {
+                bucket2^=nums[i];
+            }
         }
-        return ans;
+        return {bucket1,bucket2};
     }
-};
+};  
