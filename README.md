@@ -87,6 +87,7 @@
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3194-find-words-containing-character](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3194-find-words-containing-character) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3311-ant-on-the-boundary](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3311-ant-on-the-boundary) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3334-apple-redistribution-into-boxes](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3334-apple-redistribution-into-boxes) |
 | [3355-minimum-levels-to-gain-more-points](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3355-minimum-levels-to-gain-more-points) |
@@ -317,6 +318,7 @@
 | [2324-find-triangular-sum-of-an-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2639-separate-the-digits-in-an-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3311-ant-on-the-boundary](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3311-ant-on-the-boundary) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
@@ -351,6 +353,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1370-count-number-of-nice-subarrays) |
+| [3311-ant-on-the-boundary](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3311-ant-on-the-boundary) |
 | [3355-minimum-levels-to-gain-more-points](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3355-minimum-levels-to-gain-more-points) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 ## Heap (Priority Queue)
