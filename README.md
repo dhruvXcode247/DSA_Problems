@@ -40,6 +40,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0283-move-zeroes) |
@@ -358,6 +359,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1046-max-consecutive-ones-iii) |
