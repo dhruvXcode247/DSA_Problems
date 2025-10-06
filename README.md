@@ -60,6 +60,7 @@
 | [1034-subarrays-with-k-different-integers](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1127-last-stone-weight](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1127-last-stone-weight) |
 | [1319-unique-number-of-occurrences](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -375,6 +376,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0948-sort-an-array) |
+| [1127-last-stone-weight](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1127-last-stone-weight) |
 ## Merge Sort
 |  |
 | ------- |
