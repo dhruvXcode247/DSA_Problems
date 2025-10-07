@@ -90,6 +90,7 @@
 | [2847-find-maximum-number-of-string-pairs](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3165-find-indices-with-index-and-value-difference-i) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3194-find-words-containing-character](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3194-find-words-containing-character) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -257,6 +258,7 @@
 | [1960-check-if-the-sentence-is-pangram](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2331-intersection-of-multiple-arrays](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2331-intersection-of-multiple-arrays) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -431,6 +433,7 @@
 | [0389-find-the-difference](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0389-find-the-difference) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -517,6 +520,7 @@
 | [1034-subarrays-with-k-different-integers](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1370-count-number-of-nice-subarrays) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -530,4 +534,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0215-kth-largest-element-in-an-array) |
+## Trie
+|  |
+| ------- |
+| [3193-maximum-strong-pair-xor-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3193-maximum-strong-pair-xor-i) |
 <!---LeetCode Topics End-->
