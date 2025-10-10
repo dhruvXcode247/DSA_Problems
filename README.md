@@ -548,4 +548,8 @@
 |  |
 | ------- |
 | [3193-maximum-strong-pair-xor-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3193-maximum-strong-pair-xor-i) |
+## Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1916-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
