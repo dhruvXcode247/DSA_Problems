@@ -69,6 +69,7 @@
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1646-kth-missing-positive-number) |
@@ -170,6 +171,7 @@
 | [0941-sort-array-by-parity](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1019-squares-of-a-sorted-array) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2331-intersection-of-multiple-arrays) |
 | [2836-neither-minimum-nor-maximum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2836-neither-minimum-nor-maximum) |
@@ -261,6 +263,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1319-unique-number-of-occurrences](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1370-count-number-of-nice-subarrays) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1848-sum-of-unique-elements) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -409,6 +412,7 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0948-sort-an-array) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Stack
 |  |
 | ------- |
