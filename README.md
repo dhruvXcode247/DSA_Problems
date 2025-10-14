@@ -93,6 +93,7 @@
 | [2836-neither-minimum-nor-maximum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2836-neither-minimum-nor-maximum) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2876-number-of-employees-who-met-the-target) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3193-maximum-strong-pair-xor-i) |
@@ -151,6 +152,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2481-strictly-palindromic-number](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2481-strictly-palindromic-number) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Sorting
@@ -176,6 +178,7 @@
 | [2331-intersection-of-multiple-arrays](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2331-intersection-of-multiple-arrays) |
 | [2836-neither-minimum-nor-maximum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2836-neither-minimum-nor-maximum) |
 | [2887-sort-vowels-in-a-string](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2887-sort-vowels-in-a-string) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3334-apple-redistribution-into-boxes](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3334-apple-redistribution-into-boxes) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3778-transform-array-by-parity](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3778-transform-array-by-parity) |
@@ -334,6 +337,7 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1646-kth-missing-positive-number) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Simulation
 |  |
 | ------- |
