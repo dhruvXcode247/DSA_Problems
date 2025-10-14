@@ -53,6 +53,7 @@
 | [0503-next-greater-element-ii](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0735-asteroid-collision) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0941-sort-array-by-parity](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0941-sort-array-by-parity) |
@@ -387,6 +388,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0724-find-pivot-index) |
 | [0966-binary-subarrays-with-sum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1370-count-number-of-nice-subarrays) |
