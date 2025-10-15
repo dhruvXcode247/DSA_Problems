@@ -45,6 +45,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0416-partition-equal-subset-sum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0416-partition-equal-subset-sum) |
@@ -144,6 +145,7 @@
 | [0189-rotate-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0443-string-compression) |
 | [0633-sum-of-square-numbers](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0633-sum-of-square-numbers) |
@@ -328,6 +330,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0540-single-element-in-a-sorted-array) |
@@ -454,6 +457,7 @@
 | [0137-single-number-ii](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0260-single-number-iii) |
+| [0287-find-the-duplicate-number](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0389-find-the-difference) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
