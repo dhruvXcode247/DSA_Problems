@@ -94,6 +94,7 @@
 | [2639-separate-the-digits-in-an-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2639-separate-the-digits-in-an-array) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2836-neither-minimum-nor-maximum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2836-neither-minimum-nor-maximum) |
+| [2845-find-the-value-of-the-partition](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2845-find-the-value-of-the-partition) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2872-largest-element-in-an-array-after-merge-operations](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -182,6 +183,7 @@
 | [2210-find-target-indices-after-sorting-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2331-intersection-of-multiple-arrays) |
 | [2836-neither-minimum-nor-maximum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2836-neither-minimum-nor-maximum) |
+| [2845-find-the-value-of-the-partition](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2845-find-the-value-of-the-partition) |
 | [2887-sort-vowels-in-a-string](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2887-sort-vowels-in-a-string) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3334-apple-redistribution-into-boxes](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3334-apple-redistribution-into-boxes) |
