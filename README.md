@@ -254,6 +254,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0141-linked-list-cycle) |
@@ -476,6 +477,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -552,6 +554,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0424-longest-repeating-character-replacement) |
