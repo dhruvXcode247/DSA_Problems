@@ -94,6 +94,7 @@
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2639-separate-the-digits-in-an-array) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2684-determine-the-winner-of-a-bowling-game) |
+| [2694-find-the-maximum-divisibility-score](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2694-find-the-maximum-divisibility-score) |
 | [2728-sum-in-a-matrix](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2728-sum-in-a-matrix) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2836-neither-minimum-nor-maximum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2836-neither-minimum-nor-maximum) |
