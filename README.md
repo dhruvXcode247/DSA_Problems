@@ -96,6 +96,7 @@
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [2694-find-the-maximum-divisibility-score](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2694-find-the-maximum-divisibility-score) |
+| [2722-prime-in-diagonal](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2722-prime-in-diagonal) |
 | [2728-sum-in-a-matrix](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2728-sum-in-a-matrix) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2836-neither-minimum-nor-maximum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2836-neither-minimum-nor-maximum) |
@@ -229,6 +230,7 @@
 | [2481-strictly-palindromic-number](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2481-strictly-palindromic-number) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2722-prime-in-diagonal](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2722-prime-in-diagonal) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2824-check-if-the-number-is-fascinating) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3367-find-the-sum-of-encrypted-integers) |
@@ -384,6 +386,7 @@
 | [0073-set-matrix-zeroes](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [1677-matrix-diagonal-sum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1677-matrix-diagonal-sum) |
+| [2722-prime-in-diagonal](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2722-prime-in-diagonal) |
 | [2728-sum-in-a-matrix](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2728-sum-in-a-matrix) |
 | [3330-modify-the-matrix](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3330-modify-the-matrix) |
 ## Linked List
@@ -551,6 +554,7 @@
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2722-prime-in-diagonal](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2722-prime-in-diagonal) |
 ## Brainteaser
 |  |
 | ------- |
