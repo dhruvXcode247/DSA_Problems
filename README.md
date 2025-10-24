@@ -93,6 +93,7 @@
 | [2432-number-of-zero-filled-subarrays](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2639-separate-the-digits-in-an-array) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [2694-find-the-maximum-divisibility-score](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2694-find-the-maximum-divisibility-score) |
@@ -316,6 +317,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1848-sum-of-unique-elements) |
 | [2331-intersection-of-multiple-arrays](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2331-intersection-of-multiple-arrays) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3019-furthest-point-from-origin](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3019-furthest-point-from-origin) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3778-transform-array-by-parity](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3778-transform-array-by-parity) |
@@ -514,6 +516,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2243-check-if-all-as-appears-before-all-bs) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2887-sort-vowels-in-a-string](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2887-sort-vowels-in-a-string) |
 | [3019-furthest-point-from-origin](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3019-furthest-point-from-origin) |
