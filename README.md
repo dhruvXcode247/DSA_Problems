@@ -99,6 +99,7 @@
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [2694-find-the-maximum-divisibility-score](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2694-find-the-maximum-divisibility-score) |
+| [2712-find-the-maximum-number-of-marked-indices](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2722-prime-in-diagonal](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2722-prime-in-diagonal) |
 | [2728-sum-in-a-matrix](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2728-sum-in-a-matrix) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2767-maximum-sum-with-exactly-k-elements) |
@@ -168,6 +169,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2481-strictly-palindromic-number](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2481-strictly-palindromic-number) |
+| [2712-find-the-maximum-number-of-marked-indices](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -193,6 +195,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2331-intersection-of-multiple-arrays) |
+| [2712-find-the-maximum-number-of-marked-indices](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2728-sum-in-a-matrix](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2728-sum-in-a-matrix) |
 | [2836-neither-minimum-nor-maximum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2836-neither-minimum-nor-maximum) |
 | [2845-find-the-value-of-the-partition](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2845-find-the-value-of-the-partition) |
@@ -366,6 +369,7 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1646-kth-missing-positive-number) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2712-find-the-maximum-number-of-marked-indices](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Simulation
 |  |
@@ -548,6 +552,7 @@
 | [0890-lemonade-change](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0890-lemonade-change) |
 | [1448-maximum-69-number](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2032-largest-odd-number-in-string) |
+| [2712-find-the-maximum-number-of-marked-indices](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2872-largest-element-in-an-array-after-merge-operations](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
