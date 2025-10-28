@@ -344,6 +344,7 @@
 | [0152-maximum-product-subarray](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0416-partition-equal-subset-sum) |
 ## Binary Search
 |  |
@@ -496,6 +497,7 @@
 | [0231-power-of-two](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0389-find-the-difference) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
