@@ -254,6 +254,7 @@
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3626-smallest-divisible-digit-product-i) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3817-maximum-containers-on-a-ship](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3817-maximum-containers-on-a-ship) |
 | [3830-find-closest-person](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3830-find-closest-person) |
@@ -502,6 +503,7 @@
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3193-maximum-strong-pair-xor-i) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Breadth-First Search
 |  |
 | ------- |
