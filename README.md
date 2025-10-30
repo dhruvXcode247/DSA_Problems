@@ -61,6 +61,7 @@
 | [0735-asteroid-collision](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0735-asteroid-collision) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0890-lemonade-change](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0890-lemonade-change) |
+| [0917-boats-to-save-people](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0966-binary-subarrays-with-sum) |
@@ -166,6 +167,7 @@
 | [0455-assign-cookies](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0633-sum-of-square-numbers) |
 | [0908-middle-of-the-linked-list](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0908-middle-of-the-linked-list) |
+| [0917-boats-to-save-people](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -192,6 +194,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0455-assign-cookies) |
+| [0917-boats-to-save-people](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1019-squares-of-a-sorted-array) |
@@ -561,6 +564,7 @@
 | [0402-remove-k-digits](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0890-lemonade-change) |
+| [0917-boats-to-save-people](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0917-boats-to-save-people) |
 | [1448-maximum-69-number](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2712-find-the-maximum-number-of-marked-indices) |
