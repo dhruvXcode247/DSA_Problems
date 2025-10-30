@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -512,6 +513,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -622,6 +624,7 @@
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0014-longest-common-prefix) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Graph
 |  |
