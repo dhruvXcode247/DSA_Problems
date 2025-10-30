@@ -1,21 +1,18 @@
 class Solution {
 public:
     long long pickGifts(vector<int>& gifts, int k) {
-        int i=0,n=gifts.size();
+        int i=0,n=gifts.size(),m=gifts.size();
+        priority_queue<int>pq(gifts.begin(),gifts.end());
         long long rem=0;
         while (k>0) {
-            int maxi=0,idx=0;
-            for (int i=0;i<n;i++) {
-                if (maxi<gifts[i]) {
-                    maxi=gifts[i];
-                    idx=i;
-                }
-            }
-            gifts[idx]=sqrt(gifts[idx]);
+            int top=pq.top();
+            pq.pop();
+            pq.push(sqrt(top));
             k--;
         }
-        for (int i=0;i<n;i++) {
-            rem+=gifts[i];
+        while(!pq.empty()) {
+            rem+=pq.top();
+            pq.pop();
         }
         return rem;
     }
