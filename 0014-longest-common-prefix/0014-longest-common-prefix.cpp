@@ -1,7 +1,7 @@
 class Solution {
 public:
     string longestCommonPrefix(vector<string>& strs) {
-        int count=0,n=strs.size(),mini=INT_MAX;
+        int n=strs.size(),mini=INT_MAX;
         string longest="";
         unordered_set<char>st;
         for (int i=0;i<n;i++) {
@@ -16,7 +16,6 @@ public:
                 j++;
             }
             if (st.size()==1) {
-                count++;
                 longest+=strs[0][i];
             }
             else {
