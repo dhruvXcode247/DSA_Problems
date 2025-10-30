@@ -11,8 +11,7 @@ public:
         for (int i=0;i<mini;i++) {
             int j=0;
             while (j<n) {
-                string s1=strs[j];
-                st.insert(s1[i]);
+                st.insert(strs[j][i]);
                 j++;
             }
             if (st.size()==1) {
