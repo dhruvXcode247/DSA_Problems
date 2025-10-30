@@ -1,7 +1,6 @@
 class Solution {
 public:
     long long pickGifts(vector<int>& gifts, int k) {
-        sort(gifts.begin(),gifts.end(),greater<int>());
         int i=0,n=gifts.size();
         long long rem=0;
         while (k>0) {
