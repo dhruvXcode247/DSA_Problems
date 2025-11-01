@@ -91,6 +91,7 @@
 | [2210-find-target-indices-after-sorting-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2227-sum-of-subarray-ranges) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -204,6 +205,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2331-intersection-of-multiple-arrays](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2331-intersection-of-multiple-arrays) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2728-sum-in-a-matrix](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2728-sum-in-a-matrix) |
@@ -342,6 +344,7 @@
 | [1034-subarrays-with-k-different-integers](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1848-sum-of-unique-elements) |
+| [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2331-intersection-of-multiple-arrays](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2331-intersection-of-multiple-arrays) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3019-furthest-point-from-origin](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3019-furthest-point-from-origin) |
