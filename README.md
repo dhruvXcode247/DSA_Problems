@@ -84,6 +84,7 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1646-kth-missing-positive-number) |
 | [1677-matrix-diagonal-sum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1677-matrix-diagonal-sum) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1848-sum-of-unique-elements](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1848-sum-of-unique-elements) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2058-concatenation-of-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2058-concatenation-of-array) |
@@ -369,6 +370,7 @@
 | [0322-coin-change](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0416-partition-equal-subset-sum) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Binary Search
 |  |
 | ------- |
@@ -561,6 +563,7 @@
 | [0812-rotate-string](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0812-rotate-string) |
 | [1205-defanging-an-ip-address](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1205-defanging-an-ip-address) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2032-largest-odd-number-in-string) |
@@ -591,6 +594,7 @@
 | [0917-boats-to-save-people](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0917-boats-to-save-people) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1448-maximum-69-number](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1448-maximum-69-number) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2032-largest-odd-number-in-string](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2767-maximum-sum-with-exactly-k-elements) |
