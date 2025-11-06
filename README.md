@@ -89,6 +89,7 @@
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1848-sum-of-unique-elements](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1848-sum-of-unique-elements) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2058-concatenation-of-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -607,6 +608,7 @@
 | [1303-minimum-moves-to-reach-target-score](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1448-maximum-69-number](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1448-maximum-69-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2032-largest-odd-number-in-string](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2767-maximum-sum-with-exactly-k-elements) |
