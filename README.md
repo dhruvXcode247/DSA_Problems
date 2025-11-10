@@ -521,6 +521,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0042-trapping-rain-water) |
+| [0144-binary-tree-preorder-traversal](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0402-remove-k-digits) |
@@ -705,4 +706,16 @@
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
