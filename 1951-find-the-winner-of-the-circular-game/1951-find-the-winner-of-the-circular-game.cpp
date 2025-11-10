@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int josephus (vector<bool>person,int n,int index,int person_left,int k) {
+    int josephus (vector<bool>&person,int n,int index,int person_left,int k) {
         if (person_left==1) {
             for (int i=0;i<n;i++) {
                 if (person[i]==0) return i+1;
