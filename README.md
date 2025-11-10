@@ -521,6 +521,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0234-palindrome-linked-list) |
@@ -709,13 +710,16 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
