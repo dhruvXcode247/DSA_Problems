@@ -93,6 +93,7 @@
 | [1848-sum-of-unique-elements](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1848-sum-of-unique-elements) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2058-concatenation-of-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -254,6 +255,7 @@
 | [1448-maximum-69-number](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1448-maximum-69-number) |
 | [1642-water-bottles](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1965-sum-of-digits-in-base-k](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1965-sum-of-digits-in-base-k) |
 | [2032-largest-odd-number-in-string](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -295,6 +297,7 @@
 | [0206-reverse-linked-list](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0234-palindrome-linked-list) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -419,6 +422,7 @@
 | [0657-robot-return-to-origin](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0735-asteroid-collision) |
 | [1642-water-bottles](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1642-water-bottles) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2058-concatenation-of-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -697,4 +701,8 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0146-lru-cache) |
+## Queue
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
