@@ -10,7 +10,7 @@ public:
                 revnum=(revnum*10)+num%10;
                 num/=10;
             }
-            if (revnum!=num) st.insert(revnum);
+            if (revnum!=nums[i]) st.insert(revnum);
         }
         return st.size();
     }
