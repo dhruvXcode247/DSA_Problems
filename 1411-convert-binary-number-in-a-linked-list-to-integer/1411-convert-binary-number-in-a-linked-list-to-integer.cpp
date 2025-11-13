@@ -20,7 +20,7 @@ public:
         int multi=cnt;
         temp=head;
         for (int i=0;i<cnt;i++) {
-            num+=temp->val*pow(2,multi-1);
+            num+=temp->val*(1<<(multi-1));
             temp=temp->next;
             multi--;
         }
