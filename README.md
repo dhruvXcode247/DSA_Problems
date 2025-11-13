@@ -254,6 +254,7 @@
 | [0633-sum-of-square-numbers](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0633-sum-of-square-numbers) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1370-count-number-of-nice-subarrays) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -481,6 +482,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Prefix Sum
