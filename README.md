@@ -112,6 +112,7 @@
 | [2331-intersection-of-multiple-arrays](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2331-intersection-of-multiple-arrays) |
 | [2358-number-of-ways-to-split-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2639-separate-the-digits-in-an-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
@@ -271,6 +272,7 @@
 | [2383-add-two-integers](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2383-add-two-integers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2481-strictly-palindromic-number](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2481-strictly-palindromic-number) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2649-count-total-number-of-colored-cells](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2649-count-total-number-of-colored-cells) |
@@ -339,6 +341,7 @@
 | [1960-check-if-the-sentence-is-pangram](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2331-intersection-of-multiple-arrays](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2331-intersection-of-multiple-arrays) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2824-check-if-the-number-is-fascinating) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3193-maximum-strong-pair-xor-i) |
@@ -370,6 +373,7 @@
 | [1848-sum-of-unique-elements](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1848-sum-of-unique-elements) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2331-intersection-of-multiple-arrays](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2331-intersection-of-multiple-arrays) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3019-furthest-point-from-origin](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3019-furthest-point-from-origin) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3242-count-elements-with-maximum-frequency) |
