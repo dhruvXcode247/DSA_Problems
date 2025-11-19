@@ -79,6 +79,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1127-last-stone-weight](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1127-last-stone-weight) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -224,6 +225,7 @@
 | [0941-sort-array-by-parity](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1019-squares-of-a-sorted-array) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -654,6 +656,7 @@
 | [0678-valid-parenthesis-string](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0917-boats-to-save-people) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1448-maximum-69-number](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1448-maximum-69-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
