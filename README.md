@@ -591,6 +591,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0322-coin-change) |
@@ -746,6 +747,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -773,6 +775,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0124-binary-tree-maximum-path-sum) |
