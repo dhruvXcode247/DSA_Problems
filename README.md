@@ -76,6 +76,7 @@
 | [0948-sort-an-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1019-squares-of-a-sorted-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1046-max-consecutive-ones-iii) |
@@ -588,6 +589,7 @@
 | [0287-find-the-duplicate-number](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0389-find-the-difference) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
