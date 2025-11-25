@@ -259,6 +259,7 @@
 | [0231-power-of-two](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0319-bulb-switcher) |
+| [0342-power-of-four](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0633-sum-of-square-numbers) |
@@ -318,6 +319,7 @@
 | [0206-reverse-linked-list](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0342-power-of-four) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Hash Table
 |  |
@@ -595,6 +597,7 @@
 | [0268-missing-number](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0389-find-the-difference) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
