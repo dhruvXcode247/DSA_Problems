@@ -228,6 +228,7 @@
 | [0917-boats-to-save-people](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0948-sort-an-array) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1019-squares-of-a-sorted-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1051-height-checker](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1051-height-checker) |
@@ -350,6 +351,7 @@
 | [0782-jewels-and-stones](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0782-jewels-and-stones) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0966-binary-subarrays-with-sum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0966-binary-subarrays-with-sum) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1034-subarrays-with-k-different-integers) |
@@ -626,6 +628,7 @@
 | [0322-coin-change](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0322-coin-change) |
 | [0662-maximum-width-of-binary-tree](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## String
 |  |
 | ------- |
@@ -802,6 +805,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -822,6 +826,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -847,4 +852,5 @@
 | [0543-diameter-of-binary-tree](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
