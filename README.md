@@ -144,6 +144,7 @@
 | [2872-largest-element-in-an-array-after-merge-operations](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3074-apple-redistribution-into-boxes](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3193-maximum-strong-pair-xor-i) |
@@ -249,6 +250,7 @@
 | [2845-find-the-value-of-the-partition](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2845-find-the-value-of-the-partition) |
 | [2887-sort-vowels-in-a-string](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2887-sort-vowels-in-a-string) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3074-apple-redistribution-into-boxes](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3334-apple-redistribution-into-boxes](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3334-apple-redistribution-into-boxes) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3778-transform-array-by-parity](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3778-transform-array-by-parity) |
@@ -723,6 +725,7 @@
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2864-maximum-odd-binary-number](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2864-maximum-odd-binary-number) |
 | [2872-largest-element-in-an-array-after-merge-operations](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
+| [3074-apple-redistribution-into-boxes](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3334-apple-redistribution-into-boxes](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3334-apple-redistribution-into-boxes) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3528-reach-end-of-array-with-max-score) |
