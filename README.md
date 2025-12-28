@@ -91,6 +91,7 @@
 | [1127-last-stone-weight](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1127-last-stone-weight) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1319-unique-number-of-occurrences](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1319-unique-number-of-occurrences) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -463,6 +464,7 @@
 | [0745-find-smallest-letter-greater-than-target](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1046-max-consecutive-ones-iii](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1646-kth-missing-positive-number) |
@@ -502,6 +504,7 @@
 | [0054-spiral-matrix](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1677-matrix-diagonal-sum) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2722-prime-in-diagonal](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2722-prime-in-diagonal) |
