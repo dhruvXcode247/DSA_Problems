@@ -270,6 +270,7 @@
 | [0189-rotate-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0367-valid-perfect-square) |
@@ -757,12 +758,14 @@
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0319-bulb-switcher) |
 | [2481-strictly-palindromic-number](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2481-strictly-palindromic-number) |
 | [3462-vowels-game-in-a-string](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3462-vowels-game-in-a-string) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0292-nim-game) |
 | [3462-vowels-game-in-a-string](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3462-vowels-game-in-a-string) |
 ## Sliding Window
 |  |
