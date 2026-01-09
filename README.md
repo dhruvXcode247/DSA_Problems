@@ -174,6 +174,7 @@
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3778-transform-array-by-parity](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3778-transform-array-by-parity) |
+| [3788-maximum-score-of-a-split](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3788-maximum-score-of-a-split) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
@@ -556,6 +557,7 @@
 | [3355-minimum-levels-to-gain-more-points](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3355-minimum-levels-to-gain-more-points) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3788-maximum-score-of-a-split](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3788-maximum-score-of-a-split) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
