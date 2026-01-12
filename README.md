@@ -91,6 +91,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1127-last-stone-weight](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1127-last-stone-weight) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1266-minimum-time-visiting-all-points](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1319-unique-number-of-occurrences](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1319-unique-number-of-occurrences) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1370-count-number-of-nice-subarrays) |
@@ -280,6 +281,7 @@
 | [0507-perfect-number](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0633-sum-of-square-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1266-minimum-time-visiting-all-points](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1390-four-divisors](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1390-four-divisors) |
@@ -935,4 +937,8 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0374-guess-number-higher-or-lower) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
