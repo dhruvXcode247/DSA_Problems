@@ -209,6 +209,7 @@
 | [0917-boats-to-save-people](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1019-squares-of-a-sorted-array) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -783,6 +784,7 @@
 | [1034-subarrays-with-k-different-integers](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1370-count-number-of-nice-subarrays) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Enumeration
 |  |
