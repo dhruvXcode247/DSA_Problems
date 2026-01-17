@@ -49,6 +49,7 @@
 | [0189-rotate-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0213-house-robber-ii](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0229-majority-element-ii) |
@@ -442,6 +443,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0416-partition-equal-subset-sum) |
