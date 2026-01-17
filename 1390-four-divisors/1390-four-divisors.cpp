@@ -2,7 +2,6 @@ class Solution {
 public:
     int sumFourDivisors(vector<int>& nums) {
         int n=nums.size(),sum=0,total=0;
-        unordered_set<int>st;
         for (int i=0;i<n;i++) {
             int num=nums[i],count=2,sum=1+num;
             for (int j=2;j*j<=num;j++) {
