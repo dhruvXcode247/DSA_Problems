@@ -269,6 +269,7 @@
 | [0029-divide-two-integers](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0171-excel-sheet-column-number) |
@@ -436,6 +437,7 @@
 | [0045-jump-game-ii](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -799,6 +801,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3422-find-the-n-th-value-after-k-seconds) |
