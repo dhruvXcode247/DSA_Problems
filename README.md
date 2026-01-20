@@ -158,6 +158,7 @@
 | [3221-find-the-peaks](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3221-find-the-peaks) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3311-ant-on-the-boundary](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3311-ant-on-the-boundary) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3330-modify-the-matrix](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3330-modify-the-matrix) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3334-apple-redistribution-into-boxes](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3334-apple-redistribution-into-boxes) |
@@ -650,6 +651,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3193-maximum-strong-pair-xor-i) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Breadth-First Search
 |  |
