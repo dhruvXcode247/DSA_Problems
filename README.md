@@ -27,6 +27,7 @@
 | [0056-merge-intervals](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0075-sort-colors) |
@@ -442,6 +443,7 @@
 | [0055-jump-game](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -521,6 +523,7 @@
 | [0048-rotate-image](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
