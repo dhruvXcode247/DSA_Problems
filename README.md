@@ -95,6 +95,7 @@
 | [1051-height-checker](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1051-height-checker) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1127-last-stone-weight](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1127-last-stone-weight) |
+| [1200-minimum-absolute-difference](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1200-minimum-absolute-difference) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1266-minimum-time-visiting-all-points](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1319-unique-number-of-occurrences](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1319-unique-number-of-occurrences) |
@@ -253,6 +254,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1051-height-checker](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1051-height-checker) |
+| [1200-minimum-absolute-difference](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1200-minimum-absolute-difference) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
