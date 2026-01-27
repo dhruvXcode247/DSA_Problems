@@ -1,41 +1,26 @@
 class Solution {
 public:
-    // dp[i][target] stores: can we reach 'target' using elements from index 0 to i
-    vector<vector<int>> dp;
-
-    bool canPartitionHelper(int index, int target, vector<int>& nums) {
-        // If target is 0, we found a valid subset
-        if (target == 0) return true;
-        // If no elements left or target becomes negative
-        if (index < 0 || target < 0) return false;
-
-        // If already computed
-        if (dp[index][target] != -1) return dp[index][target];
-
-        // Do not include current element
-        bool notPick = canPartitionHelper(index - 1, target, nums);
-
-        // Include current element if possible
-        bool pick = false;
-        if (nums[index] <= target)
-            pick = canPartitionHelper(index - 1, target - nums[index], nums);
-
-        // Store and return result
-        return dp[index][target] = pick || notPick;
+    bool subsets(int n,vector<int>&nums,int target,vector<vector<int>>&dp) {
+        if (target==0) {
+            return true;
+        }
+        if (n==0) return nums[0]==target;
+        if (dp[n][target]!=-1) return dp[n][target];
+        bool notTake=subsets(n-1,nums,target,dp);
+        bool take=false;
+        if (nums[n]<=target) {
+            take=subsets(n-1,nums,target-nums[n],dp);
+        }
+        return dp[n][target]= take || notTake;
     }
-
     bool canPartition(vector<int>& nums) {
-        int total = accumulate(nums.begin(), nums.end(), 0);
-
-        // If total sum is odd, cannot partition into equal halves
-        if (total % 2 != 0) return false;
-
-        int target = total / 2;
-        int n = nums.size();
-
-        // Initialize memo table with -1
-        dp = vector<vector<int>>(n, vector<int>(target + 1, -1));
-
-        return canPartitionHelper(n - 1, target, nums);
+        int n=nums.size(),sum=0;
+        for (int i=0;i<n;i++) {
+            sum+=nums[i];
+        }
+        if (sum%2) return false;
+        int target=sum/2;
+        vector<vector<int>>dp(n,vector<int>(target+1,-1));
+        return subsets(n-1,nums,target,dp);
     }
 };
