@@ -1,44 +1,24 @@
 class Solution {
 public:
-    int coinChange(vector<int>& coins, int amount) {
-        // Create a memo array to store results of subproblems
-        // Initialize with -2 to indicate "not yet calculated"
-        vector<int> memo(amount + 1, -2);
-        
-        // Call the helper recursive function to compute min coins
-        int res = dfs(coins, amount, memo);
-        
-        // If result is INT_MAX, it means no solution found, so return -1 Otherwise, return the result
-        return res == INT_MAX ? -1 : res;
-    }
-    int dfs(vector<int>& coins, int amount, vector<int>& memo) {
-        // Base case: when amount is zero, no coins needed
-        if (amount == 0) return 0;
-        
-        // Base case: when amount is negative, no solution
-        if (amount < 0) return INT_MAX;
-        
-        // If already calculated for this amount, return result
-        if (memo[amount] != -2) return memo[amount];
-        
-        // Initialize minimum coins needed as a large number (infinity)
-        int minCoins = INT_MAX;
-        
-        // Try every coin denomination
-        for (int coin : coins) {
-            int res = dfs(coins, amount - coin, memo);
-            
-            // If result is not infinity, update minimum coins needed
-            if (res != INT_MAX) {
-                // +1 because we used one coin here
-                minCoins = min(minCoins, res + 1);
+    int fewest(vector<int>&coins,int amount,int ind,vector<vector<int>>&dp) {
+        if (amount==0) return 0;
+        if (ind == 0) {
+            if (amount%coins[ind]==0) {
+                return amount/coins[ind];
             }
+            else return 1e9;
         }
-        
-        // Store computed minimum coins in memo to avoid recalculation
-        memo[amount] = minCoins;
-        
-        // Return the calculated minimum coins for this amount
-        return minCoins;
+        if (dp[ind][amount]!=-1) return dp[ind][amount];
+        int notTake=0+fewest(coins,amount,ind-1,dp);
+        int take=1e9;
+        if (coins[ind]<=amount) take=1+fewest(coins,amount-coins[ind],ind,dp);
+        return dp[ind][amount]=min(take,notTake);
+    }
+    int coinChange(vector<int>& coins, int amount) {
+        int n=coins.size();
+        vector<vector<int>>dp(n,vector<int>(amount+1,-1));
+        int ans = fewest(coins, amount, n - 1, dp);
+        return (ans >= 1e9 ? -1 : ans);
+
     }
 };
