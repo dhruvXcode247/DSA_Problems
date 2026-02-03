@@ -17,7 +17,7 @@ public:
         for (int i=0;i<n;i++) {
             totsum+=nums[i];
         }
-        if (totsum+target<0 || (totsum+target)%2) return 0;
+        if (totsum-target<0 || (totsum+target)%2) return 0;
         return expressions(n-1,nums,(totsum-target)/2);
     }
 };
