@@ -1,6 +1,6 @@
 class Solution {
 public:
-    long long expressions(int n,vector<int>&nums,int target,vector<vector<long long>>&dp) {
+    long long expressions(int n,vector<int>&nums,int target,vector<vector<int>>&dp) {
         if (n==0) {
             if (nums[n]==0 && target==0) return 2;
             if (target==0 || nums[0]==target) return 1;
@@ -9,8 +9,8 @@ public:
         if (dp[n][target]!=-1) {
             return dp[n][target];
         }
-        long long notTake=expressions(n-1,nums,target,dp);
-        long long take=0;
+        int notTake=expressions(n-1,nums,target,dp);
+        int take=0;
         if (nums[n]<=target) take=expressions(n-1,nums,target-nums[n],dp);
         return dp[n][target]=(take+notTake);
     }
@@ -22,7 +22,7 @@ public:
         }
         if (totsum-target<0 || (totsum-target)%2) return 0;
         int s2=(totsum-target)/2;
-        vector<vector<long long>>dp(n,vector<long long>(s2+1,-1));
-        return (int)expressions(n-1,nums,s2,dp);
+        vector<vector<int>>dp(n,vector<int>(s2+1,-1));
+        return expressions(n-1,nums,s2,dp);
     }
 };
