@@ -114,6 +114,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1646-kth-missing-positive-number](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1646-kth-missing-positive-number) |
 | [1677-matrix-diagonal-sum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1677-matrix-diagonal-sum) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -265,6 +266,7 @@
 | [1051-height-checker](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1200-minimum-absolute-difference) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -405,6 +407,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1848-sum-of-unique-elements](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1848-sum-of-unique-elements) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
