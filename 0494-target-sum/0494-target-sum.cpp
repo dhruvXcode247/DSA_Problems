@@ -1,20 +1,5 @@
 class Solution {
 public:
-    int expressions(int n,vector<int>&nums,int target,vector<vector<int>>&dp) {
-        if (n==0) {
-            if (nums[n]==0 && target==0) return 2;
-            if (target==0 || nums[0]==target) return 1;
-            return 0; 
-        }
-        if (dp[n][target]!=-1) {
-            return dp[n][target];
-        }
-        int notTake=expressions(n-1,nums,target,dp);
-        int take=0;
-        if (nums[n]<=target) take=expressions(n-1,nums,target-nums[n],dp);
-        return dp[n][target]=(take+notTake);
-    }
-
     int findTargetSumWays(vector<int>& nums, int target) {
         int n=nums.size(),totsum=0;
         for (int i=0;i<n;i++) {
@@ -22,7 +7,18 @@ public:
         }
         if (totsum-target<0 || (totsum-target)%2) return 0;
         int s2=(totsum-target)/2;
-        vector<vector<int>>dp(n,vector<int>(s2+1,-1));
-        return expressions(n-1,nums,s2,dp);
+        vector<vector<int>>dp(n,vector<int>(s2+1,0));
+        if (nums[0]==0) dp[0][0]=2;
+        else dp[0][0]=1;
+        if (nums[0]!=0 && nums[0]<=s2) dp[0][nums[0]]=1;
+        for (int ind=1;ind<n;ind++) {
+            for (int sum=0;sum<=s2;sum++) {
+                int notTake=dp[ind-1][sum];
+                int take=0;
+                if (nums[ind]<=sum) take=dp[ind-1][sum-nums[ind]];
+                dp[ind][sum]=take+notTake;
+            }
+        }
+        return dp[n-1][s2];
     }
 };
