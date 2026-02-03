@@ -142,6 +142,7 @@
 | [2358-number-of-ways-to-split-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2639-separate-the-digits-in-an-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
@@ -268,6 +269,7 @@
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2331-intersection-of-multiple-arrays](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2331-intersection-of-multiple-arrays) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2728-sum-in-a-matrix](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2728-sum-in-a-matrix) |
 | [2836-neither-minimum-nor-maximum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2836-neither-minimum-nor-maximum) |
@@ -552,6 +554,7 @@
 | [1677-matrix-diagonal-sum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1677-matrix-diagonal-sum) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2722-prime-in-diagonal](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2722-prime-in-diagonal) |
 | [2728-sum-in-a-matrix](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2728-sum-in-a-matrix) |
 | [2737-row-with-maximum-ones](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2737-row-with-maximum-ones) |
