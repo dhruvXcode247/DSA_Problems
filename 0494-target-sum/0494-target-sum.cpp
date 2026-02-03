@@ -1,6 +1,6 @@
 class Solution {
 public:
-    long long expressions(int n,vector<int>&nums,int target,vector<vector<int>>&dp) {
+    int expressions(int n,vector<int>&nums,int target,vector<vector<int>>&dp) {
         if (n==0) {
             if (nums[n]==0 && target==0) return 2;
             if (target==0 || nums[0]==target) return 1;
