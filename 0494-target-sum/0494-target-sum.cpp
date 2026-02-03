@@ -1,15 +1,18 @@
 class Solution {
 public:
-    int expressions(int n,vector<int>&nums,int target) {
+    long long expressions(int n,vector<int>&nums,int target,vector<vector<long long>>&dp) {
         if (n==0) {
             if (nums[n]==0 && target==0) return 2;
             if (target==0 || nums[0]==target) return 1;
             return 0; 
         }
-        int notTake=expressions(n-1,nums,target);
-        int take=0;
-        if (nums[n]<=target) take=expressions(n-1,nums,target-nums[n]);
-        return (take+notTake);
+        if (dp[n][target]!=-1) {
+            return dp[n][target];
+        }
+        long long notTake=expressions(n-1,nums,target,dp);
+        long long take=0;
+        if (nums[n]<=target) take=expressions(n-1,nums,target-nums[n],dp);
+        return dp[n][target]=(take+notTake);
     }
 
     int findTargetSumWays(vector<int>& nums, int target) {
@@ -18,6 +21,8 @@ public:
             totsum+=nums[i];
         }
         if (totsum-target<0 || (totsum-target)%2) return 0;
-        return expressions(n-1,nums,(totsum-target)/2);
+        int s2=(totsum-target)/2;
+        vector<vector<long long>>dp(n,vector<long long>(s2+1,-1));
+        return (int)expressions(n-1,nums,s2,dp);
     }
 };
