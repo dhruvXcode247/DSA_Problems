@@ -78,6 +78,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0724-find-pivot-index](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -482,6 +483,7 @@
 | [0494-target-sum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0678-valid-parenthesis-string) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1143-longest-common-subsequence) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -507,6 +509,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0633-sum-of-square-numbers) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1046-max-consecutive-ones-iii](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1046-max-consecutive-ones-iii) |
@@ -833,6 +836,7 @@
 | [0076-minimum-window-substring](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0966-binary-subarrays-with-sum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1046-max-consecutive-ones-iii) |
@@ -998,4 +1002,12 @@
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1266-minimum-time-visiting-all-points) |
+## Rolling Hash
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 <!---LeetCode Topics End-->
