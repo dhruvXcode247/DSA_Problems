@@ -1,6 +1,7 @@
 class Solution {
 public:
     int combinations (int idx, int amount, vector<int>&coins,vector<vector<int>>&dp) {
+        if (amount==0) return 1;
         if (idx==0) {
             return (amount%coins[0]==0);
         }
