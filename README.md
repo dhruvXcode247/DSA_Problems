@@ -481,6 +481,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0678-valid-parenthesis-string) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -733,6 +734,7 @@
 | [0402-remove-k-digits](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0443-string-compression) |
+| [0516-longest-palindromic-subsequence](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0657-robot-return-to-origin](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0678-valid-parenthesis-string) |
 | [0782-jewels-and-stones](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0782-jewels-and-stones) |
