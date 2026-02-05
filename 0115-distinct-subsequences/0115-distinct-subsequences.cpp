@@ -3,8 +3,8 @@ public:
     int numDistinct(string s, string t) {
         int n=s.size();
         int m=t.size();
-        vector<unsigned long long>prev(m+1,0);
-        vector<unsigned long long>curr(m+1,0);
+        vector<double>prev(m+1,0);
+        vector<double>curr(m+1,0);
         prev[0]=1;
         for (int i=1;i<=n;i++) {
             curr[0]=1;
@@ -18,6 +18,6 @@ public:
             }
             prev=curr;
         }
-        return curr[m];
+        return (int)curr[m];
     }
 };
