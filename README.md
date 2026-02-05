@@ -469,6 +469,7 @@
 | [0063-unique-paths-ii](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -731,6 +732,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0076-minimum-window-substring) |
+| [0115-distinct-subsequences](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0165-compare-version-numbers) |
 | [0171-excel-sheet-column-number](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0171-excel-sheet-column-number) |
