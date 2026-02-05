@@ -488,6 +488,7 @@
 | [0678-valid-parenthesis-string](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0678-valid-parenthesis-string) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0931-minimum-falling-path-sum) |
+| [1092-shortest-common-supersequence](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -745,6 +746,7 @@
 | [0782-jewels-and-stones](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0812-rotate-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0944-delete-columns-to-make-sorted) |
+| [1092-shortest-common-supersequence](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1143-longest-common-subsequence) |
 | [1205-defanging-an-ip-address](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1205-defanging-an-ip-address) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
