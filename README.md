@@ -180,6 +180,7 @@
 | [3334-apple-redistribution-into-boxes](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3334-apple-redistribution-into-boxes) |
 | [3355-minimum-levels-to-gain-more-points](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3355-minimum-levels-to-gain-more-points) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3367-find-the-sum-of-encrypted-integers) |
+| [3379-transformed-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3379-transformed-array) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -548,6 +549,7 @@
 | [2728-sum-in-a-matrix](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2728-sum-in-a-matrix) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3311-ant-on-the-boundary](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3311-ant-on-the-boundary) |
+| [3379-transformed-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3379-transformed-array) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
