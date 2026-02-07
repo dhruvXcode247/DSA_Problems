@@ -493,6 +493,7 @@
 | [1092-shortest-common-supersequence](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Binary Search
@@ -665,6 +666,7 @@
 | [0735-asteroid-collision](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0735-asteroid-collision) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1441-build-an-array-with-stack-operations](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1441-build-an-array-with-stack-operations) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2227-sum-of-subarray-ranges](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2227-sum-of-subarray-ranges) |
 ## Memoization
@@ -755,6 +757,7 @@
 | [1205-defanging-an-ip-address](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1205-defanging-an-ip-address) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
