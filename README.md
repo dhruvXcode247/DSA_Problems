@@ -193,6 +193,7 @@
 | [3582-find-indices-of-stable-mountains](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3582-find-indices-of-stable-mountains) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3637-trionic-array-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3637-trionic-array-i) |
+| [3719-longest-balanced-subarray-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3778-transform-array-by-parity](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3778-transform-array-by-parity) |
 | [3788-maximum-score-of-a-split](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3788-maximum-score-of-a-split) |
@@ -425,6 +426,7 @@
 | [3446-find-the-number-of-good-pairs-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3719-longest-balanced-subarray-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Divide and Conquer
 |  |
@@ -440,6 +442,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0948-sort-an-array) |
+| [3719-longest-balanced-subarray-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3719-longest-balanced-subarray-i) |
 ## Counting
 |  |
 | ------- |
@@ -617,6 +620,7 @@
 | [3355-minimum-levels-to-gain-more-points](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3355-minimum-levels-to-gain-more-points) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3719-longest-balanced-subarray-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3788-maximum-score-of-a-split](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3788-maximum-score-of-a-split) |
 ## Heap (Priority Queue)
 |  |
@@ -1027,4 +1031,8 @@
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
