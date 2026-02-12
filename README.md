@@ -427,6 +427,7 @@
 | [3446-find-the-number-of-good-pairs-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3713-longest-balanced-substring-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Divide and Conquer
@@ -459,6 +460,7 @@
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3019-furthest-point-from-origin](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3019-furthest-point-from-origin) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3713-longest-balanced-substring-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3713-longest-balanced-substring-i) |
 | [3778-transform-array-by-parity](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3778-transform-array-by-parity) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
@@ -784,6 +786,7 @@
 | [3462-vowels-game-in-a-string](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3462-vowels-game-in-a-string) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3636-check-balanced-string](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3636-check-balanced-string) |
+| [3713-longest-balanced-substring-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3713-longest-balanced-substring-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Design
@@ -875,6 +878,7 @@
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3221-find-the-peaks](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3221-find-the-peaks) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3626-smallest-divisible-digit-product-i) |
+| [3713-longest-balanced-substring-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3713-longest-balanced-substring-i) |
 ## Combinatorics
 |  |
 | ------- |
