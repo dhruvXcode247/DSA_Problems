@@ -45,6 +45,7 @@
 | [0135-candy](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0137-single-number-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0162-find-peak-element) |
@@ -301,6 +302,7 @@
 | [0062-unique-paths](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0231-power-of-two) |
@@ -674,6 +676,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0234-palindrome-linked-list) |
