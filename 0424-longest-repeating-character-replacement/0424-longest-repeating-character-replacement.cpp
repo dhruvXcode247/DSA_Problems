@@ -10,7 +10,7 @@ public:
                 maxfreq=0;
                 l++;
             }
-            if ((r-l+1)-maxfreq<=k) {
+            else {
                 maxlen=max(maxlen,r-l+1);
             }
             r++;
