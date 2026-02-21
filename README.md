@@ -315,6 +315,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0633-sum-of-square-numbers) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1266-minimum-time-visiting-all-points](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1303-minimum-moves-to-reach-target-score) |
@@ -729,6 +730,7 @@
 | [0342-power-of-four](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0389-find-the-difference) |
 | [0693-binary-number-with-alternating-bits](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
