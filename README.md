@@ -446,6 +446,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -604,6 +605,7 @@
 | [0002-add-two-numbers](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -644,6 +646,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0451-sort-characters-by-frequency) |
@@ -655,6 +658,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0948-sort-an-array) |
 ## Bucket Sort
