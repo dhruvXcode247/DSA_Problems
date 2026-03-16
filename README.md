@@ -94,6 +94,7 @@
 | [0948-sort-an-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0948-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0966-binary-subarrays-with-sum) |
+| [0994-rotting-oranges](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0994-rotting-oranges) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -594,6 +595,7 @@
 | [0073-set-matrix-zeroes](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0931-minimum-falling-path-sum) |
+| [0994-rotting-oranges](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0994-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1677-matrix-diagonal-sum) |
@@ -769,6 +771,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1302-deepest-leaves-sum) |
 ## String
