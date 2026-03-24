@@ -171,6 +171,7 @@
 | [2847-find-maximum-number-of-string-pairs](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2872-largest-element-in-an-array-after-merge-operations](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2876-number-of-employees-who-met-the-target) |
+| [2906-construct-product-matrix](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2906-construct-product-matrix) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3074-apple-redistribution-into-boxes) |
@@ -610,6 +611,7 @@
 | [2722-prime-in-diagonal](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2722-prime-in-diagonal) |
 | [2728-sum-in-a-matrix](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2728-sum-in-a-matrix) |
 | [2737-row-with-maximum-ones](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2737-row-with-maximum-ones) |
+| [2906-construct-product-matrix](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2906-construct-product-matrix) |
 | [3330-modify-the-matrix](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3330-modify-the-matrix) |
 ## Linked List
 |  |
@@ -649,6 +651,7 @@
 | [1833-find-the-highest-altitude](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1833-find-the-highest-altitude) |
 | [2358-number-of-ways-to-split-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
+| [2906-construct-product-matrix](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2906-construct-product-matrix) |
 | [3311-ant-on-the-boundary](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3311-ant-on-the-boundary) |
 | [3355-minimum-levels-to-gain-more-points](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3355-minimum-levels-to-gain-more-points) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3422-find-the-n-th-value-after-k-seconds) |
