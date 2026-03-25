@@ -199,6 +199,7 @@
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3528-reach-end-of-array-with-max-score) |
+| [3546-equal-sum-grid-partition-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3582-find-indices-of-stable-mountains) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -613,6 +614,7 @@
 | [2737-row-with-maximum-ones](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2737-row-with-maximum-ones) |
 | [2906-construct-product-matrix](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2906-construct-product-matrix) |
 | [3330-modify-the-matrix](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3330-modify-the-matrix) |
+| [3546-equal-sum-grid-partition-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3546-equal-sum-grid-partition-i) |
 ## Linked List
 |  |
 | ------- |
@@ -656,6 +658,7 @@
 | [3355-minimum-levels-to-gain-more-points](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3355-minimum-levels-to-gain-more-points) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3546-equal-sum-grid-partition-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3788-maximum-score-of-a-split](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3788-maximum-score-of-a-split) |
 ## Heap (Priority Queue)
@@ -933,6 +936,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3221-find-the-peaks](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3221-find-the-peaks) |
+| [3546-equal-sum-grid-partition-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3713-longest-balanced-substring-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3713-longest-balanced-substring-i) |
 ## Combinatorics
