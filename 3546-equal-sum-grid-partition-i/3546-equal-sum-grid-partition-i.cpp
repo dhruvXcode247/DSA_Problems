@@ -14,7 +14,7 @@ public:
             for (int j=0;j<n;j++) {
                 sum1+=grid[i][j];
             }
-            if (sum/2==sum1 || sum/2==sum2) return true;
+            if (sum/2==sum1) return true;
         }
         for (int i=0;i<n;i++) {
             for (int j=0;j<m;j++) {
