@@ -27,7 +27,6 @@ public:
     }
     int deepestLeavesSum(TreeNode* root) {
         if (root==nullptr) return 0;
-        TreeNode* temp=root;
         int height=depth(root);
         int sum=0;
         result(0,sum,height,root);
