@@ -1125,4 +1125,8 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0547-number-of-provinces) |
+## Database
+|  |
+| ------- |
+| [0577-employee-bonus](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0577-employee-bonus) |
 <!---LeetCode Topics End-->
