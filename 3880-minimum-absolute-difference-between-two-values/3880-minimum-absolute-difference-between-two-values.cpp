@@ -1,11 +1,18 @@
 class Solution {
 public:
     int minAbsoluteDifference(vector<int>& nums) {
-        int n=nums.size(),mini=INT_MAX;
+        int n=nums.size(),mini=INT_MAX,idx1=-1,idx2=-1;
         for (int i=0;i<n;i++) {
-            for (int j=0;j<n;j++) {
-                if (nums[i]==1 && nums[j]==2) {
-                    mini=min(mini,abs(i-j));
+            if (nums[i]==1) {
+                idx1=i;
+                if (idx2!=-1) {
+                    mini=min(mini,abs(idx1-idx2));
+                }
+            }
+            else if (nums[i]==2) {
+                idx2=i;
+                if (idx1!=-1) {
+                    mini=min(mini,abs(idx1-idx2));
                 }
             }
         }
