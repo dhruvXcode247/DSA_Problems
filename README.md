@@ -834,6 +834,7 @@
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2864-maximum-odd-binary-number](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2864-maximum-odd-binary-number) |
 | [2887-sort-vowels-in-a-string](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2887-sort-vowels-in-a-string) |
