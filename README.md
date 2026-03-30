@@ -292,6 +292,7 @@
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2728-sum-in-a-matrix](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2728-sum-in-a-matrix) |
 | [2836-neither-minimum-nor-maximum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2836-neither-minimum-nor-maximum) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2845-find-the-value-of-the-partition](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2845-find-the-value-of-the-partition) |
 | [2887-sort-vowels-in-a-string](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2887-sort-vowels-in-a-string) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -440,6 +441,7 @@
 | [2331-intersection-of-multiple-arrays](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2331-intersection-of-multiple-arrays) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2824-check-if-the-number-is-fascinating) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -835,6 +837,7 @@
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2864-maximum-odd-binary-number](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2864-maximum-odd-binary-number) |
 | [2887-sort-vowels-in-a-string](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2887-sort-vowels-in-a-string) |
