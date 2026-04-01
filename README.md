@@ -1137,5 +1137,6 @@
 | [0181-employees-earning-more-than-their-managers](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0577-employee-bonus](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0577-employee-bonus) |
 | [1075-project-employees-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1075-project-employees-i) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1757-recyclable-and-low-fat-products](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
