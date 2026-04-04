@@ -2,5 +2,6 @@
 SELECT id, movie, description, rating
 FROM Cinema
 WHERE id%2 
-AND description!='boring'
+AND description
+NOT IN ('boring')
 ORDER BY rating DESC
