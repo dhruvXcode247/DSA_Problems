@@ -132,6 +132,7 @@
 | [1833-find-the-highest-altitude](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1833-find-the-highest-altitude) |
 | [1848-sum-of-unique-elements](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1848-sum-of-unique-elements) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1929-concatenation-of-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1929-concatenation-of-array) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -570,6 +571,7 @@
 | [0735-asteroid-collision](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0735-asteroid-collision) |
 | [1441-build-an-array-with-stack-operations](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1441-build-an-array-with-stack-operations) |
 | [1642-water-bottles](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1642-water-bottles) |
+| [1929-concatenation-of-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1929-concatenation-of-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2022-convert-1d-array-into-2d-array) |
