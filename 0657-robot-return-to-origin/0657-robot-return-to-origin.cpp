@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool judgeCircle(string moves) {
-        int count[26]={0},len=0;
+        int count[26]={0};
         for (int i=0;i<moves.size();i++) {
             count[moves[i]-'A']++;
         }
