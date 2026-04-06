@@ -340,6 +340,7 @@
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1642-water-bottles](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1922-count-good-numbers](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1922-count-good-numbers) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1965-sum-of-digits-in-base-k](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1965-sum-of-digits-in-base-k) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -392,6 +393,7 @@
 | [0231-power-of-two](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0342-power-of-four) |
+| [1922-count-good-numbers](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1922-count-good-numbers) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Hash Table
 |  |
