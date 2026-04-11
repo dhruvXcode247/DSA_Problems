@@ -237,6 +237,7 @@
 | [0234-palindrome-linked-list](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0287-find-the-duplicate-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0455-assign-cookies) |
@@ -813,6 +814,7 @@
 | [0165-compare-version-numbers](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0165-compare-version-numbers) |
 | [0171-excel-sheet-column-number](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0171-excel-sheet-column-number) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0345-reverse-vowels-of-a-string](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0424-longest-repeating-character-replacement) |
