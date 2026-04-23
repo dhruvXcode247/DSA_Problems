@@ -7,7 +7,8 @@ public:
                 for (int k=0;k<n;k++) {
                     if (i!=j && j!=k && k!=i) {
                         if (nums[i]==nums[j] && nums[j]==nums[k] && nums[k]==nums[i]) {
-                        dist=min(dist,abs(i-j)+abs(j-k)+abs(k-i)); }
+                            dist=min(dist,abs(i-j)+abs(j-k)+abs(k-i)); 
+                        }
                     }
                 }
             }
