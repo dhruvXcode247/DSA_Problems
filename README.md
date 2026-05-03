@@ -835,6 +835,7 @@
 | [0657-robot-return-to-origin](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0678-valid-parenthesis-string) |
 | [0782-jewels-and-stones](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0782-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0812-rotate-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [1021-remove-outermost-parentheses](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1021-remove-outermost-parentheses) |
@@ -914,6 +915,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0812-rotate-string) |
 ## Monotonic Stack
 |  |
