@@ -7,10 +7,9 @@ public:
             st.insert(it);
         }
         for (auto it:st) {
-            if (islower(it)) {
-                if (st.find(toupper(it))!=st.end()) {
+            if (islower(it) &&
+                st.find(toupper(it))!=st.end()) {
                     cnt++;
-                }
             }
         }
         return cnt;
