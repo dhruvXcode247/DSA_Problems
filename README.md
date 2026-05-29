@@ -191,6 +191,7 @@
 | [3221-find-the-peaks](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3221-find-the-peaks) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3311-ant-on-the-boundary](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3311-ant-on-the-boundary) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3330-modify-the-matrix](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3330-modify-the-matrix) |
@@ -375,6 +376,7 @@
 | [2864-maximum-odd-binary-number](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2864-maximum-odd-binary-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3371-harshad-number](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3371-harshad-number) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3422-find-the-n-th-value-after-k-seconds) |
