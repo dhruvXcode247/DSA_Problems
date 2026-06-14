@@ -260,6 +260,7 @@
 | [1768-merge-strings-alternately](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -676,6 +677,7 @@
 | [0908-middle-of-the-linked-list](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Prefix Sum
@@ -758,6 +760,7 @@
 | [1441-build-an-array-with-stack-operations](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1441-build-an-array-with-stack-operations) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2227-sum-of-subarray-ranges](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2227-sum-of-subarray-ranges) |
 ## Memoization
 |  |
