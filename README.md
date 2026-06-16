@@ -627,6 +627,7 @@
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
+| [3612-process-string-with-special-operations-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3612-process-string-with-special-operations-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Matrix
 |  |
@@ -894,6 +895,7 @@
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3462-vowels-game-in-a-string](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3462-vowels-game-in-a-string) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
+| [3612-process-string-with-special-operations-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3612-process-string-with-special-operations-i) |
 | [3636-check-balanced-string](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3636-check-balanced-string) |
 | [3713-longest-balanced-substring-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3713-longest-balanced-substring-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
