@@ -217,6 +217,7 @@
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3637-trionic-array-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3637-trionic-array-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -484,6 +485,7 @@
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3713-longest-balanced-substring-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -503,6 +505,7 @@
 | [0347-top-k-frequent-elements](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0948-sort-an-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting
 |  |
 | ------- |
@@ -523,6 +526,7 @@
 | [3019-furthest-point-from-origin](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3019-furthest-point-from-origin) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3713-longest-balanced-substring-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3713-longest-balanced-substring-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3778-transform-array-by-parity](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3778-transform-array-by-parity) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
@@ -709,6 +713,7 @@
 | [3432-count-partitions-with-even-sum-difference](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3546-equal-sum-grid-partition-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3788-maximum-score-of-a-split](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3788-maximum-score-of-a-split) |
 ## Heap (Priority Queue)
 |  |
@@ -728,6 +733,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0948-sort-an-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -1182,6 +1188,7 @@
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Union-Find
 |  |
 | ------- |
