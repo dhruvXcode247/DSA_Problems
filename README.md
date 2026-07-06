@@ -111,6 +111,7 @@
 | [1200-minimum-absolute-difference](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1200-minimum-absolute-difference) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1266-minimum-time-visiting-all-points](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1266-minimum-time-visiting-all-points) |
+| [1288-remove-covered-intervals](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1288-remove-covered-intervals) |
 | [1319-unique-number-of-occurrences](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1319-unique-number-of-occurrences) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -303,6 +304,7 @@
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1051-height-checker](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1200-minimum-absolute-difference) |
+| [1288-remove-covered-intervals](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1288-remove-covered-intervals) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1636-sort-array-by-increasing-frequency) |
