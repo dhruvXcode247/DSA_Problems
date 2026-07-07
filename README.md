@@ -402,6 +402,7 @@
 | [3626-smallest-divisible-digit-product-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3783-mirror-distance-of-an-integer) |
