@@ -1,14 +1,13 @@
 class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
-        map<int,int> mpp;
-        for (int i=0;i<nums.size();i++) {
-            mpp[nums[i]]++;
+        int n=nums.size(),i=0;
+        for (int j=1;j<n;j++) {
+            if (nums[j]!=nums[i]) {
+                i++;
+                nums[i]=nums[j];
+            }
         }
-        nums.clear();
-        for (auto it:mpp) {
-            nums.emplace_back(it.first);
-        }
-        return nums.size();
+        return i+1;
     }
 };
