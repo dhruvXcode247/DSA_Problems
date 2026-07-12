@@ -12,6 +12,7 @@ public:
         int cnt=1;
         vector<int>ans(n,0);
         unordered_map<int,int>mpp;
+        mpp.reserve(n);
 
         mpp[temp[0]]=1;
 
