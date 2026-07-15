@@ -10,6 +10,6 @@ public:
             sumEven+=num2;
             num2+=2;
         }
-        return __gcd(sumOdd,sumEven);
+        return gcd(sumOdd,sumEven);
     }
 };
