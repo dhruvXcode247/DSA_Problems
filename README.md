@@ -80,6 +80,7 @@
 | [0518-coin-change-ii](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0724-find-pivot-index](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0724-find-pivot-index) |
@@ -298,6 +299,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0917-boats-to-save-people](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0948-sort-an-array) |
@@ -353,6 +355,7 @@
 | [0367-valid-perfect-square](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0367-valid-perfect-square) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0507-perfect-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0633-sum-of-square-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1015-smallest-integer-divisible-by-k) |
