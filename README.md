@@ -90,6 +90,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0877-stone-game) |
 | [0890-lemonade-change](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0917-boats-to-save-people) |
 | [0931-minimum-falling-path-sum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0931-minimum-falling-path-sum) |
@@ -360,6 +361,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0633-sum-of-square-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0877-stone-game](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0877-stone-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1266-minimum-time-visiting-all-points](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1303-minimum-moves-to-reach-target-score) |
@@ -582,6 +584,7 @@
 | [0678-valid-parenthesis-string](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0678-valid-parenthesis-string) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0931-minimum-falling-path-sum) |
 | [1092-shortest-common-supersequence](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1143-longest-common-subsequence) |
@@ -1010,6 +1013,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0877-stone-game) |
 | [3462-vowels-game-in-a-string](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3462-vowels-game-in-a-string) |
 ## Sliding Window
 |  |
