@@ -224,6 +224,7 @@
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3637-trionic-array-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3637-trionic-array-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3719-longest-balanced-subarray-i) |
+| [3731-find-missing-elements](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -335,6 +336,7 @@
 | [3334-apple-redistribution-into-boxes](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3334-apple-redistribution-into-boxes) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3536-maximum-product-of-two-digits](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3731-find-missing-elements) |
 | [3778-transform-array-by-parity](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3778-transform-array-by-parity) |
 ## Math
 |  |
@@ -506,6 +508,7 @@
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3713-longest-balanced-substring-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3719-longest-balanced-subarray-i) |
+| [3731-find-missing-elements](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
