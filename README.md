@@ -403,6 +403,7 @@
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3371-harshad-number](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3371-harshad-number) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3422-find-the-n-th-value-after-k-seconds) |
@@ -1039,6 +1040,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3221-find-the-peaks](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3221-find-the-peaks) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3713-longest-balanced-substring-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3713-longest-balanced-substring-i) |
