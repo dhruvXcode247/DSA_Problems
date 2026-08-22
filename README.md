@@ -415,6 +415,7 @@
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3676-smallest-number-with-all-set-bits) |
