@@ -233,6 +233,7 @@
 | [3788-maximum-score-of-a-split](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3788-maximum-score-of-a-split) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [3875-construct-uniform-parity-array-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -428,6 +429,7 @@
 | [3830-find-closest-person](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3830-find-closest-person) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [3875-construct-uniform-parity-array-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Recursion
 |  |
