@@ -804,6 +804,7 @@
 | [0739-daily-temperatures](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0739-daily-temperatures) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1021-remove-outermost-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1441-build-an-array-with-stack-operations) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -911,6 +912,7 @@
 | [1092-shortest-common-supersequence](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1189-maximum-number-of-balloons) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1205-defanging-an-ip-address) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -1269,4 +1271,8 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/dhruvXcode247/DSA_Problems/tree/master/0877-stone-game) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dhruvXcode247/DSA_Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
