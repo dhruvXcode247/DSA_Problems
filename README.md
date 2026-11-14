@@ -211,6 +211,7 @@
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3334-apple-redistribution-into-boxes](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3334-apple-redistribution-into-boxes) |
 | [3355-minimum-levels-to-gain-more-points](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3355-minimum-levels-to-gain-more-points) |
+| [3364-minimum-positive-sum-subarray](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3364-minimum-positive-sum-subarray) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3379-transformed-array](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3379-transformed-array) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3397-find-the-integer-added-to-array-i) |
@@ -750,6 +751,7 @@
 | [2906-construct-product-matrix](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2906-construct-product-matrix) |
 | [3311-ant-on-the-boundary](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3311-ant-on-the-boundary) |
 | [3355-minimum-levels-to-gain-more-points](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3355-minimum-levels-to-gain-more-points) |
+| [3364-minimum-positive-sum-subarray](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3364-minimum-positive-sum-subarray) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3546-equal-sum-grid-partition-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3546-equal-sum-grid-partition-i) |
@@ -1057,6 +1059,7 @@
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/dhruvXcode247/DSA_Problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3193-maximum-strong-pair-xor-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/dhruvXcode247/DSA_Problems/tree/master/3364-minimum-positive-sum-subarray) |
 ## Enumeration
 |  |
 | ------- |
